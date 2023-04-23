@@ -4,7 +4,7 @@
       "name": "Aaron_Better Workshop Tools_V1.0",
       "author": "Aaron Farmer",
       "version": "1.0",
-      "compatibility": "w70",
+      "compatibility": "w71",
       "description": "This is a customized Workshop Tools that will make your life easier.",
       "files": {
         "pak": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/Aaron_Better%20Workshop%20Tools_V1.0_P.pak",
@@ -12,6 +12,30 @@
       },
       "imageURL": "https://www.picz.in.th/image/%E0%B8%AA%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%8A%E0%B9%87%E0%B8%AD%E0%B8%95-2023-04-04-014411.mCP7kI",
       "readmeURL": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/README.md"
+    },
+    {
+      "name": "Second Mod Name",
+      "author": "Aaron Farmer",
+      "version": "1.0",
+      "compatibility": "w71",
+      "description": "see below",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
+    },
+    {
+      "name": "Second Mod Name",
+      "author": "Aaron Farmer",
+      "version": "1.0",
+      "compatibility": "w71",
+      "description": "see below",
+      "files": {
+        "pak": "the direct download URL for your PAK mod file"
+      },
+      "imageURL": "see below",
+      "readmeURL": "see below"
     }
   ]
 }
