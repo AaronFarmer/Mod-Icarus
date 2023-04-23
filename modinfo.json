@@ -14,28 +14,40 @@
       "readmeURL": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/README.md"
     },
     {
-      "name": "Second Mod Name",
+      "name": "Aaron_God_Armour",
       "author": "Aaron Farmer",
       "version": "1.0",
       "compatibility": "w71",
-      "description": "see below",
+      "description": "With this mod you will feel like a god!!!",
       "files": {
-        "pak": "the direct download URL for your PAK mod file"
+        "pak": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/Aaron_God_Armour%20_P.pak"
       },
       "imageURL": "see below",
-      "readmeURL": "see below"
+      "readmeURL": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/README.md"
     },
     {
-      "name": "Second Mod Name",
+      "name": "Aaron_Items_MaxStack",
       "author": "Aaron Farmer",
       "version": "1.0",
       "compatibility": "w71",
       "description": "see below",
       "files": {
-        "pak": "the direct download URL for your PAK mod file"
+        "pak": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/Aaron_Items_MaxStack%20_P.pak"
       },
       "imageURL": "see below",
-      "readmeURL": "see below"
+      "readmeURL": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/README.md"
+    },
+    {
+      "name": "Aaron_DropShip+",
+      "author": "Aaron Farmer",
+      "version": "1.0",
+      "compatibility": "w71",
+      "description": "Increased pocket slots at stations Increased loadout slots!!",
+      "files": {
+        "pak": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/Aaron_DropShip%2B_P.pak"
+      },
+      "imageURL": "see below",
+      "readmeURL": "https://github.com/AaronFarmer/Mod-Icarus/blob/main/README.md"
     }
   ]
 }
